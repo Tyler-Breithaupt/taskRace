@@ -1,0 +1,15 @@
+/Users/tylerbreithaupt/Desktop/CIT195/taskRace/bin/Debug/net7.0/taskRace
+/Users/tylerbreithaupt/Desktop/CIT195/taskRace/bin/Debug/net7.0/taskRace.deps.json
+/Users/tylerbreithaupt/Desktop/CIT195/taskRace/bin/Debug/net7.0/taskRace.runtimeconfig.json
+/Users/tylerbreithaupt/Desktop/CIT195/taskRace/bin/Debug/net7.0/taskRace.dll
+/Users/tylerbreithaupt/Desktop/CIT195/taskRace/bin/Debug/net7.0/taskRace.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/taskRace/obj/Debug/net7.0/taskRace.csproj.AssemblyReference.cache
+/Users/tylerbreithaupt/Desktop/CIT195/taskRace/obj/Debug/net7.0/taskRace.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylerbreithaupt/Desktop/CIT195/taskRace/obj/Debug/net7.0/taskRace.AssemblyInfoInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/taskRace/obj/Debug/net7.0/taskRace.AssemblyInfo.cs
+/Users/tylerbreithaupt/Desktop/CIT195/taskRace/obj/Debug/net7.0/taskRace.csproj.CoreCompileInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/taskRace/obj/Debug/net7.0/taskRace.dll
+/Users/tylerbreithaupt/Desktop/CIT195/taskRace/obj/Debug/net7.0/refint/taskRace.dll
+/Users/tylerbreithaupt/Desktop/CIT195/taskRace/obj/Debug/net7.0/taskRace.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/taskRace/obj/Debug/net7.0/taskRace.genruntimeconfig.cache
+/Users/tylerbreithaupt/Desktop/CIT195/taskRace/obj/Debug/net7.0/ref/taskRace.dll
